@@ -72,6 +72,7 @@ Please read the installation instructions included in the repository or download
 - [OpenCart homepage](http://www.opencart.com/)
 - [OpenCart forums](http://forum.opencart.com/)
 - [OpenCart blog](http://www.opencart.com/index.php?route=feature/blog)
+- [Customize opencart 2](https://www.chrisranjana.com/opencartprogrammers/opencartpickinglist.html)
 - [How to documents](http://docs.opencart.com/)
 - [Newsletter](http://newsletter.opencart.com/h/r/B660EBBE4980C85C)
 - [User Voice suggestions](http://opencart.uservoice.com)
